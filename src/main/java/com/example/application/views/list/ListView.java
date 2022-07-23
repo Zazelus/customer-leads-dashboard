@@ -1,5 +1,6 @@
 package com.example.application.views.list;
 
+import com.example.application.data.entity.Contact;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.html.H1;
 import com.vaadin.flow.component.html.H2;
